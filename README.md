@@ -1,2 +1,2 @@
 # calculator-react
-Projeto desenvolvido em React
+Projeto de estudo desenvolvido em React
